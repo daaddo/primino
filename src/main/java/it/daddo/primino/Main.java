@@ -10,8 +10,8 @@ package it.daddo.primino;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("assdrubale");
-        System.out.println("Ciao anche a te");
+        System.out.println("BUONO 1");
+        System.out.println("BUONO 2");
         
         //modifica 1
         
