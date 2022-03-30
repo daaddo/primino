@@ -12,7 +12,8 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("BUONO 1");
         System.out.println("Ciao e no non dico a te");
-        System.out.println("modifica minchiata");
+        System.out.println("modifica ok");
+        System.out.println("modifica verissima");
         
         //modifica 1
         
