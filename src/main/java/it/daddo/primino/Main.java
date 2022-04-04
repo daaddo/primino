@@ -10,6 +10,9 @@ package it.daddo.primino;
  */
 public class Main {
     public static void main(String[] args) {
+        
+        System.out.println("AHAH IL MIO CAPO FA SCHIFO");
+        
         System.out.println("BUONO 1");
         System.out.println("Ciao e no non dico a te");
         System.out.println("modifica ok");
