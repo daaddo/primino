@@ -11,11 +11,16 @@ package it.daddo.primino;
 public class Main {
     public static void main(String[] args) {
         
+<<<<<<< HEAD
         System.out.println(" SONO BUGGATISSIMO !!!!! OH NOOO");
         
         for (int i = 0; i < 10; i++) {
             System.out.println("ssisi");
         }
+=======
+        System.out.println(" AH AHA HA QUESTO COMMIT VA SUL BRANCH BUG");
+        
+>>>>>>> 74a51dc... sono un pollo
         System.out.println("BUONO 1");
         System.out.println("Ciao e no non dico a te22");
         System.out.println("modifica ok");
