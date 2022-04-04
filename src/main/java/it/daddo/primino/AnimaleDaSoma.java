@@ -10,4 +10,6 @@ package it.daddo.primino;
  */
 public class AnimaleDaSoma {
     
+    private int zaino;
+    
 }

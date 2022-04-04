@@ -13,7 +13,9 @@ public class Main {
         
         System.out.println(" SONO BUGGATISSIMO !!!!! OH NOOO");
         
-        
+        for (int i = 0; i < 10; i++) {
+            System.out.println("ssisi");
+        }
         System.out.println("BUONO 1");
         System.out.println("Ciao e no non dico a te22");
         System.out.println("modifica ok");
