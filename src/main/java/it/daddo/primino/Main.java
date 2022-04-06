@@ -10,6 +10,13 @@ package it.daddo.primino;
  */
 public class Main {
     public static void main(String[] args) {
+        
+        Integer i = null;
+        try{
+            System.out.println("i = "+i.byteValue());
+        }catch(NullPointerException ex){
+            System.out.println("messaggio: "+ex.getMessage());
+        }
         System.out.println("BUONO 1");
         System.out.println("Ciao e no non dico a te");
         System.out.println("modifica ok");
